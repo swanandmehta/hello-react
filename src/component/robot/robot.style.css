@@ -1,0 +1,8 @@
+.robot {
+    background-color: lightgray;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 5px 5px;
+    flex-basis: 18%;
+    flex-grow: 1;
+}
